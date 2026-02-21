@@ -1,4 +1,4 @@
-# Radio Cartón
+# Rocket Radio
 
 Radio Cartón is a streaming site for animated cartoons in a radio version. This project uses web technology to create an online news program where two hosts, who have parked their spaceship at a bar, provide funny reports and comments. Radio Cartón stands out as an audiovisual project idea that allows real-time interaction with the editor.
 
@@ -29,7 +29,7 @@ We are currently working on preparing video examples, which will be uploaded to 
 
 The project follows a file structure similar to a conventional web application. Below is an overview of the file structure:
 ```markdown
-radio-carton/
+Rocket-Radio/
 ├── index.html
 ├── styles.css
 ├── scripts.js
