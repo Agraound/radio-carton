@@ -28,7 +28,7 @@ We are currently working on preparing video examples, which will be uploaded to 
 ## File Structure
 
 The project follows a file structure similar to a conventional web application. Below is an overview of the file structure:
-'''markdown
+```markdown
 radio-carton/
 ├── index.html
 ├── styles.css
@@ -37,7 +37,7 @@ radio-carton/
 ├── images/
 ├── audio/
 └── videos/
-'''
+```
 
 ## Contribution
 
